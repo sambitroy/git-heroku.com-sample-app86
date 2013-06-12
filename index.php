@@ -1,3 +1,3 @@
 <?php
-	echo 'HOLA';
+	echo 'HOLA! Welcome to Sample App 86.';
 ?>
